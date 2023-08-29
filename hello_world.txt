@@ -1,0 +1,4 @@
+this is me overwriting the file i guess.
+enter causes me to change lines.
+I don't know what i pressed earlier that caused my terminal to freeze on the command.
+happens often.
